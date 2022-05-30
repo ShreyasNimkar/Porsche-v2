@@ -1,6 +1,5 @@
-open main.js and run the following command:
-
-npm run dev
+Run the following command , 
+npm start
 
 
 
