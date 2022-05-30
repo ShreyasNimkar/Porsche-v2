@@ -1,0 +1,154 @@
+*{
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    src: url("./Assets/Fonts/911porschav3bold.ttf");
+    font-family: porsche;
+}
+
+@font-face {
+    src: url("./Assets/Fonts/SCRIPTIN.ttf");
+    font-family: italian;
+}
+
+.gapper {
+    height: 2vh;
+    background: none;
+    clear: both;
+    border: none;
+}
+
+
+canvas{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+}
+
+main{
+    width: 100vw;
+    z-index: 99;
+    width: 100%;
+    position: absolute;
+    margin:0px auto;
+    padding:1vh 0;
+    color: rgba(255, 255, 255, 0.3);
+}
+
+#bg{
+    background-color: white;
+}
+
+
+
+.Navbar{
+    display: flex;
+    flex-direction: row;
+    height: 10vh;
+    width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    overflow-y: hidden;
+}
+
+.navbarsmallflexitem1{
+    width: 100%;
+    align-items: center;
+    text-align: left;
+    justify-content: space-around;
+    font-family: porsche;
+}
+
+.navbarsmallflexitem1 h3{
+    padding-left: 1vw;
+}
+
+.navbarsmallflexitem2{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: right;
+}
+
+#hamburgermenu{
+    height: 6vh;
+    width: 6vh;
+    align-items: right;
+    margin-right: 2vw;
+}
+
+.navbarflexitem{
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    display: flex;
+
+}
+
+
+
+#logo{
+    height: 10vh;
+    width: auto;
+    align-self: center;
+    
+}
+
+
+#hamburgermenu{
+    cursor: pointer;
+}
+
+
+.flexcontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    text-align: center;
+    font-family: porsche;
+}
+
+.flexitem1{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    height: 85vh;
+    
+}
+
+
+.box1{
+    border: 1px solid rgb(255, 255, 255,0);
+    padding: 0 1vw;
+    height: 40vh;
+    width: 50vw;
+    text-align: left;
+    overflow-y: hidden;
+}
+.box1 h1{
+    
+    font-size: 10vh;
+    font-weight: 300;
+    font-family: italian;
+    z-index: 100;
+}
+.box1 p{
+    font-size: 3.7vh;
+}
+
+.box2{
+    border: 1px solid white;
+    padding: 0 100;
+    height: 40vh;
+    width: 30vw;
+}
+
+
+
+
