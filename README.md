@@ -12,3 +12,8 @@
 # Usage
 ##### Run the following command:
 ##### npm run start
+
+![Settings Window](https://github.com/ShreyasNimkar/Porsche-v2/blob/master/images/1.png)
+![Settings Window](https://github.com/ShreyasNimkar/Porsche-v2/blob/master/images/2.png)
+![Settings Window](https://github.com/ShreyasNimkar/Porsche-v2/blob/master/images/3.png)
+![Settings Window](https://github.com/ShreyasNimkar/Porsche-v2/blob/master/images/4.png)
