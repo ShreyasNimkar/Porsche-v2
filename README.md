@@ -6,7 +6,7 @@
 ##### Adding multiple Porsche models
 ##### Adding a fully fledged garage system with those implemented models
 ##### Creating a fully functioning digital car showroom using Three JS and WebGL
-##### Adding the 3d Scene to Web3 using smartcontracts via Solidity
+##### In the future I am planning to add the 3d Scene to Web3 using smartcontracts via Solidity
  
 
 # Usage
